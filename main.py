@@ -112,5 +112,5 @@ class FashionAgent:
 # Test Image Analysis Feature
 if __name__ == "__main__":
     agent = FashionAgent()
-    image_path = "test_2.jpg"  # Replace with actual image
+    image_path = "sample_outfit.jpg"  # Replace with actual image
     print("\n🔹 AI Recommendations:\n", agent.analyze_outfit(image_path))
