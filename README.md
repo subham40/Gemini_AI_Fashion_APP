@@ -21,7 +21,7 @@ This project is a **multimodal fashion recommendation system** using **Google Ge
 4️⃣ **Vertex AI Deployment:** Host the **Gemini AI model** on **Vertex AI** for scalable inference.  
 5️⃣ **Cloud Run:** Deploy the backend using **Cloud Run** for a **serverless and scalable solution**.  
 
-### **Future Agentic Enhancements (for Hackathon)** 🚀  
+### **Future Agentic Enhancements** 🚀  
 💬 **Conversational Shopping Assistant:** Implement **Gemini’s memory** for a **chat-based personalized shopping experience**.  
 📊 **Automated Trend Analysis:** Use **Google Trends API + Gemini** to **suggest trending styles dynamically**.  
 🎨 **Dynamic Styling Suggestions:** Integrate **Gemini Code AI** to **generate outfit combinations on the fly**.  
